@@ -1,4 +1,5 @@
-   build/
-   *.avi
-   *.mp4
-   __pycache__/
+build/
+*.avi
+*.mp4
+__pycache__/
+.vscode/
